@@ -16,8 +16,10 @@ HowTo:
 
  2 - Usage:
  
-   Run the program: 
+   Run the program from project base dir: 
    
     .takepictures
  
-   Follow the instructions in the terminal.
+   Follow the instructions in the terminal for initialization.
+   Press *c* for capturing current view. Images will be stores in *Captures* folder.
+   
